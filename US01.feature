@@ -30,7 +30,4 @@ Scenario: Confirmación de Correo Electrónico
 Given he completado el registro
 When hago clic en "Registrarse"
 Then recibo un correo electrónico de confirmación en la dirección proporcionada.
- 
 
-
- 
